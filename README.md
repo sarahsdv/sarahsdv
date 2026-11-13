@@ -47,15 +47,15 @@ Aqui compartilho meus projetos, experiências e um pouco da minha evolução com
 <p>
 <img
     align="left"
-    alt="Resumo do GitHub"
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahsdv&theme=tokyonight"
-  />
-<img
-    align="left"
     alt="GitHub Streak"
     height="180"
     style="padding-right: 10px;"
     src="https://streak-stats.demolab.com/?user=sarahsdv&theme=tokyonight&locale=pt_BR"
+  />
+  <img
+    align="left"
+    alt="Resumo do GitHub"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahsdv&theme=tokyonight"
   />
 </p>
